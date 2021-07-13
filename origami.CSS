@@ -1,0 +1,18 @@
+.header{
+    background-color: yellow;
+}
+.menue{
+    background-color:aquamarine;
+}
+.origami{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: yellow;
+}
+.origami1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: aquamarine;
+}
